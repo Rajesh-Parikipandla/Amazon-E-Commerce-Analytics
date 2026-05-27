@@ -118,3 +118,60 @@ An interactive multi-page Power BI dashboard was developed to visualize key busi
 
 The dashboard was designed using Power BI visuals, DAX measures, slicers, filters, and interactive charts to support business reporting and decision-making.
 
+![Amazon Dashboard](https://raw.githubusercontent.com/Rajesh-Parikipandla/Amazon-E-Commerce-Analytics/8d0a65cf715df127c25959aad9d788759301b56a/Amazon%20ecommerce%20dashboard%20final%20image.jpg)
+
+<h2>Key Insights: </h2>
+
+<h3>Sales Insights:</h3>
+
+* Total revenue reached ₹99.41M from 10,000 orders.
+* Electronics was the top-performing category with ₹66.17M revenue.
+* February recorded the highest sales, while September had the lowest.
+* Samsung emerged as the leading revenue-generating brand.
+
+<h3>Customer Insights:</h3>
+
+* Payment methods were evenly distributed across customers.
+* Cash on Delivery was the most preferred payment option.
+* Order volumes remained consistent throughout the year.
+* Major metro cities showed similar purchasing activity.
+
+<h3>Product Insights:</h3>
+
+* Average product rating stood at 3.92/5.
+* Headphones, Mobile, and Laptop were the highest-performing subcategories.
+* Electronics dominated overall product revenue contribution.
+* Beauty and Clothing categories generated the lowest revenue.
+
+<h3>Delivery Insights:</h3>
+
+* Average shipping time was 3.20 days.
+* A significant number of orders experienced delivery delays.
+* Nearly 30% of orders remained in transit.
+* Delivery analysis highlighted operational inefficiencies in fulfillment.
+
+<h3>Returns & Profit Insights:</h3>
+
+* Overall return rate was 10.51%.
+* Electronics contributed the highest return volume.
+* Estimated profit was approximately ₹24.85M.
+* Reducing return rates could significantly improve profitability.
+
+<h2>Recommendations: </h2>
+
+*  Focus on high-performing product categories and brands to maximize revenue growth.
+*  Improve delivery operations to reduce shipping delays and enhance customer satisfaction.
+*  Implement strategies to lower product return rates and improve profitability.
+*  Strengthen low-performing categories through targeted promotions and pricing strategies.
+*  Use customer purchasing insights to optimize marketing and payment experiences.
+*  Continuously monitor KPIs through dashboards for data-driven business decisions.
+
+<h2>Conclusion: </h2>
+
+This project successfully demonstrated an end-to-end data analytics workflow using Excel, SQL, and Power BI on a simulated Amazon E-Commerce dataset containing 10,000 records. Through data cleaning, SQL analysis, and dashboard visualization, meaningful insights were generated across sales, customer behavior, product performance, delivery operations, and profitability.
+The project highlights practical skills in data analysis, business intelligence, KPI reporting, and dashboard development relevant to Data Analyst and BI Analyst roles.
+
+<h3>Rajesh Parikipandla <br>
+Aspiring Data Analyst <br>
+SQL | Power BI | Python | Excel <br> 
+Hyderabad</h3>
